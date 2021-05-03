@@ -1,8 +1,8 @@
 ### 👋 Hola! Intro a C.L <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="45">
 
-# Lees esto porque eres programador y quieres mejorar.
-# Perfecto. 
-# Necesitamos mejores programadores  
+#   Lees esto porque eres programador y quieres mejorar.
+#     Perfecto. 
+#     Necesitamos mejores programadores  
 -------
 
 📊 **Indice**
