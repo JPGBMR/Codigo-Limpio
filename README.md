@@ -12,7 +12,7 @@ Lees esto porque eres programador y quieres mejorar.<img src="https://media.giph
                                         Importancia
 1.- Ten un plan                         █████████░░░░░░░  
 2.- Sencillo                            ██████░░░░░░░░░░    
-3.- Orientado a pruebas y resultados     ███████░░░░░░░░░
+3.- Orientado a pruebas y resultados    ███████░░░░░░░░░
 4.  Repetir                             ██████████████░░
 ``` 
 📊 **Indice**
